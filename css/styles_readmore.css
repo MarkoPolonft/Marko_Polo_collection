@@ -178,6 +178,9 @@
   border-radius: 30px;
   transition: .2s ease color;
  }
+ .liko {
+  max-width: 100px;
+ }
  /*.page-link_s:hover {
   color: var(--white);
   background-color: var(--blue);
